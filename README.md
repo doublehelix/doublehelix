@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![](https://vistr.dev/badge?repo=doublehelix.doublehelix) 
+![doublehelix's github stats](https://github-readme-stats.vercel.app/api?username=doublehelix&show_icons=true&theme=dracula)
