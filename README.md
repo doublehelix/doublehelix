@@ -4,7 +4,7 @@
 <!-- [![](https://vistr.dev/patreon?campaign_id=5874364)](https://www.patreon.com/nickchapsas) -->
 [![](https://img.shields.io/badge/-@doublehelix21-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/doublehelix21)
 [![](https://img.shields.io/badge/-@doublehelix-%23181717?style=flat-square&logo=github)](https://github.com/doublehelix)
-[![](https://img.shields.io/badge/-doublehelix-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doublehelix/)](https://www.linkedin.com/in/doublehelix/)
+[![](https://img.shields.io/badge/-James%20Price-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doublehelix/)](https://www.linkedin.com/in/doublehelix/)
 <!--
 **doublehelix/doublehelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
