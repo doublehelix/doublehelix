@@ -12,4 +12,4 @@ Follow me to keep up to date:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=doublehelix&show_icons=true&theme=dracula" alt="doublehelix" />  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardalis&layout=compact&hide=html&theme=dracula" alt="ardalis" />
 
-<img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=doublehelix&repo=doublehelix&countColor=%237B1E7A" alt="Visitors since August 2022" />
+![](https://komarev.com/ghpvc/?doublehelix&color=blueviolet)
