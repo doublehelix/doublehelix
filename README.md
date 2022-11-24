@@ -12,4 +12,4 @@ Follow me to keep up to date:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=doublehelix&show_icons=true&theme=dracula" alt="doublehelix" />  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardalis&layout=compact&hide=html&theme=dracula" alt="ardalis" />
 
-![](https://komarev.com/ghpvc/?doublehelix&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=doublehelix&color=blueviolet)
