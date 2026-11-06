@@ -9,7 +9,7 @@ Follow me to keep up to date:
 <!--
 ![doublehelix's github stats](https://github-readme-stats.vercel.app/api?username=doublehelix&show_icons=true&theme=dracula)
 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=doublehelix&show_icons=true&theme=dracula" alt="doublehelix" />  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardalis&layout=compact&hide=html&theme=dracula" alt="ardalis" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=doublehelix&show_icons=true&theme=dracula" alt="doublehelix" />   -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardalis&layout=compact&hide=html&theme=dracula" alt="ardalis" /> -->
 
 ![](https://komarev.com/ghpvc/?username=doublehelix&color=blueviolet)
